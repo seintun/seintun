@@ -11,7 +11,7 @@ Former financial banker turned software engineer. His mantra is "Building to bri
 * 🌍  I'm based in San Jose
 * ✉️  You can contact me at [contact@seintun.dev](mailto:contact@seintun.dev)
 * 🚀  I'm currently working on [BlockPy: Blockchain application built with Python and React](http://github.com/shipmunkdev/blockpy)
-* 🧠  I'm learning TypeScript, Python: Flask & Celery, and AI tools
+* 🧠  I'm learning TypeScript, Python: Flask & Celery, CICD: Storybook, Jest & Github Actions, Blockchain and AI tools
 
 ### Skills
 
