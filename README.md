@@ -15,6 +15,9 @@ Former financial banker turned software engineer. His mantra is "Building to bri
 
 ### Skills
 
+* Proficient: JavaScript, Python, TypeScript, ReactJS, React Native, Redux, Node.js, Express, SQL, NoSQL, Git
+* Exposure: Golang, Storybook, Jasmine, Mocha, Chai, Jest, Enzyme, AWS, GCP, Firebase, Docker, Backbone, jQuery
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -46,6 +49,14 @@ Former financial banker turned software engineer. His mantra is "Building to bri
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/seintun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seintun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### LEADERSHIP AND AWARDS
+
+- [Splunk Enterprise Certified Admin Certification](https://www.credly.com/badges/31fd9d64-7ea3-4622-aca9-4c233daa1985), Splunk	(Apr 2020)
+
+- National Outstanding Performer Award, JPMorgan Chase Bank	(Jan 2018)
+
+- President's Award, California FBLA-Phi Beta Lambda (FBLA-PBL)	(Mar 2014)
 
 ### Badges
 
