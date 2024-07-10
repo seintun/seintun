@@ -9,14 +9,14 @@ Software Engineer
 Former financial banker turned software engineer. His mantra is "Building to bridge people with people". With experience in full-stack development, he has worked on a variety of projects using JavaScript, Python, TypeScript, ReactJS, Golang, and other technologies.
 
 * 🌍  I'm based in San Jose
-* ✉️  You can contact me at [contact@seintun.dev](mailto:contact@seintun.dev)
-* 🚀  I'm currently working on [BlockPy: Blockchain application built with Python and React](http://github.com/shipmunkdev/blockpy)
-* 🧠  I'm learning TypeScript, Python: Flask & Celery, CICD: Storybook, Jest & Github Actions, Blockchain and AI tools
+* 📧  You can contact me at [contact@seintun.dev](mailto:contact@seintun.dev)
+* 🧠  I'm learning AI & Machine Learning, TypeScript, Python: Django, Cypress, Storybook, Jest & Github Actions, and Blockchain
+* 🏫  I'm pursuing a Master's degree in System Engineering at [Harvard Extension School](https://extension.harvard.edu)
 
 ### Skills
 
-* Proficient: JavaScript, Python, TypeScript, ReactJS, React Native, Redux, Node.js, Express, SQL, NoSQL, Git
-* Exposure: Golang, Storybook, Jasmine, Mocha, Chai, Jest, Enzyme, AWS, GCP, Firebase, Docker, Backbone, jQuery
+* Proficient: JavaScript, Python, TypeScript, ReactJS, React Native, Redux, Flask, FastAPI, Django, Node.js, Express, SQL, NoSQL, Git
+* Exposure: Golang, AWS, GCP, Splunk, Storybook, Jest, Cypress, Jasmine, Mocha, Chai, Enzyme, Docker, Backbone, jQuery
 
 
 <p align="left">
@@ -51,15 +51,8 @@ Former financial banker turned software engineer. His mantra is "Building to bri
 <p align="left"> <a href="https://www.github.com/seintun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seintun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### LEADERSHIP AND AWARDS
+- Cybersecurity Graduate Certificate, Harvard Extension School (May 2024)
 
-- [Splunk Enterprise Certified Admin Certification](https://www.credly.com/badges/31fd9d64-7ea3-4622-aca9-4c233daa1985), Splunk	(Apr 2020)
-
-- National Outstanding Performer Award, JPMorgan Chase Bank	(Jan 2018)
-
-- President's Award, California FBLA-Phi Beta Lambda (FBLA-PBL)	(Mar 2014)
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/seintun"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=seintun&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/share/83ee44fc-2f18-455a-88a2-bb8dae0896b4), Amazon Web Services (Nov 2023)
+  
+- [Splunk Enterprise Certified Admin](https://www.credly.com/badges/31fd9d64-7ea3-4622-aca9-4c233daa1985), Splunk (Apr 2020)
